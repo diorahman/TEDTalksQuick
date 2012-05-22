@@ -1,0 +1,16 @@
+ted (0.2.50) stable; urgency=high
+  * Add portrait support
+  * Better file donwload handler
+  * Better file management
+  * Add website support access
+  * Add video player
+  * Add subtitle access
+  * Add stay-awake when video playing
+
+ -- Dhi Aurrahman <diorahman@gmail.com>  Sun, 01 Apr 2012 06:52:28 +0700
+
+ted (0.0.1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- N. Arif Setiawan <n.arif.setiawan@gmail.com>  Thu, 29 Mar 2012 03:26:37 +0700

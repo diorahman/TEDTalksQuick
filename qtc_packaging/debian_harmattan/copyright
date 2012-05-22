@@ -1,9 +1,5 @@
-TEDTalksQuick
-=============
-
-Very early release of TEDTalksQuick http://ted.aegis.co.id
-
-This package was debianized by Dhi Aurrahman <diorahman@gmail.com> on Thu, 29 Mar 2012 03:26:37 +0700.
+This package was debianized by Dhi Aurrahman <diorahman@gmail.com> on
+Thu, 29 Mar 2012 03:26:37 +0700.
 
 Upstream Author(s):
 
@@ -15,8 +11,6 @@ Copyright:
     <Copyright (C) 2012 Dhi Aurrahman, Nurul Arif Setiawan, AegisLabs>
 
 License:
-
-	MIT
 
     Permission is hereby granted, free of charge, to any person obtaining
     a copy of this software and associated documentation files (the
@@ -36,3 +30,4 @@ License:
     LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
     OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
     WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
